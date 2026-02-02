@@ -7,7 +7,7 @@ A clean, single-page HTML application displaying three Google Maps with highligh
 - Three Google Maps displayed side by side
 - Each map highlights a specific location with a marker
 - Responsive design that works on desktop and mobile
-- Clean, modern UI with smooth hover effects
+- Clean, modern smooth hover effects
 
 ## Setup Instructions
 
